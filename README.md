@@ -1,5 +1,5 @@
 
-Hi, I'm Kingsavannah better known as Brian Kipkemoi.
+Hi, I'm Brian Kipkemoi better known as Kingsavannah.
 
 About Me
 I'm a Technical Leader and Mentor passionate about building scalable platforms and guiding engineering teams. My focus areas include:
