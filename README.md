@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Kingsavannah44/Kingsavannah44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Kingsavannah better known as Brian Kipkemoi.
 
-Here are some ideas to get you started:
+About Me
+I'm a Technical Leader and Mentor passionate about building scalable platforms and guiding engineering teams. My focus areas include:
+- Architecting **multi-team platforms** for clubs, employment management, and global communities.
+- Developing **AI-powered systems** for content generation, onboarding, and communication.
+- Mentoring engineers, raising code quality, and establishing shared best practices.
+Currently, I’m pursuing senior engineering roles in AI and frontend development, while actively preparing tailored cover letters and resumes for international companies.
+Tech Stack
+- Frontend: React, Tailwind CSS, Flutter  
+- Backend: Node.js (Express), Python (Flask/Django)  
+- Databases: MySQL, MongoDB, SQLAlchemy  
+- Other Skills: C/C++, system-level programming, modular OOP design  
+Projects & Initiatives
+- Travel Connect – A driver mobility and recruitment platform connecting East African drivers to job opportunities in the USA and Canada.  
+- Club & Employment Platforms – Scalable apps with authentication, admin dashboards, galleries, and analytics.  
+- LLM-Powered Systems – Automated onboarding and communication tools for organizations.  
+- Portfolio Development – Integrated YouTube showcases, modern layouts, and creative project descriptions.  
+Goals
+- Update and organize my portfolio with modern project showcases.  
+- Refine developer-ready prompts and styling guides for hero sections, animations, and transitions.  
+- Research and document **North American residential areas** for global user persona context.  
+- Identify and refine **brand color palettes** for platform consistency.  
+Connect With Me
+- GitHub: [github.com/Kingsavannah](https://github.com/Kingsavannah)  
+- LinkedIn: https://www.linkedin.com/in/brian-kipkemoi
+- Email: shadsbrian@gmail.com 
 
-- 🔭 I’m currently working on Android development projects.
-- 🌱 I’m currently learning Python and Javascript.
-- 👯 I’m looking to collaborate on with the best developers in the tech industry.
-- 🤔 I’m looking for help with many aspects but majorly on app development.
-- 💬 Ask me about anything you ever feel like asking me feel free.#It's a free world we living in.
-- 📫 How to reach me: You can email me at shadsbrian@gmail.com or via WhatsApp on +254 715970249.
-- 😄 Pronouns: He.
+
 - ⚡ Fun fact: coding as a game.
 -->
