@@ -24,7 +24,7 @@ Goals
 - Identify and refine **brand color palettes** for platform consistency.  
 Connect With Me
 - GitHub: [github.com/Kingsavannah](https://github.com/Kingsavannah)  
-- https://www.linkedin.com/in/brian-kipkemoi
+- LinkedIn: https://www.linkedin.com/in/brian-k-8236153bb
 - Email: shadsbrian@gmail.com 
 
 
